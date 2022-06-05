@@ -23,7 +23,7 @@
 
 # Features
 - [x] Responsive
-     - Laptops, tablets, mobile, desktops...
+     - [x] Laptops, tablets, mobile, desktops...
 - [x] Calculate
     - [x] Incomes
     - [x] Expenses
