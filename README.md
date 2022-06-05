@@ -11,7 +11,7 @@
 </p>
 
 
-<img src="app/img/image.png" alt="">
+<img src="src/img/image.png" alt="">
 
 
 <br>
@@ -23,7 +23,7 @@
 
 # Features
 - [x] Responsive
-     - [x] Laptops, tablets, mobile, desktops...
+    - [x] Laptops, tablets, mobile, desktops...
 - [x] Calculate
     - [x] Incomes
     - [x] Expenses
